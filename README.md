@@ -7,9 +7,8 @@
 
 ## VR template for Archviz
 
-### GOAL 
-#### Education Goal
-- note, publishing and share all WIP on media
+### [GOAL](https://github.com/bestspang/VRfennect/blob/master/GOALS.md)
+
 #### Long-Term Goal
 - a very simple VR template that easy to understand
 - various systems for visualizing space
@@ -25,16 +24,10 @@
 - sound
 - TV blueprint
 - and more...
-#### phase 2
-- start on multiplayer
-- and more very soon ...
-## Updates
+
+## [Updates](https://github.com/bestspang/VRfennect/blob/master/VERSIONS.md)
 ![phase01](https://img.shields.io/badge/phase01-5%25-blue.svg)
-### version 0.01
-```
-- initialize project
-- and Documents, details and time stamp
-```
+
 ### version 0.02
 ```
 - 4.18.3 supported
