@@ -17,7 +17,7 @@
 - connected (multiplayer) local, network
 - easy to import model and usable for outsider (mostly) architect companies*
 - launcher (patch update system) and subscription system
-#### phase 1
+#### Phase 1 [current phase]
 - create a VR template on unreal ( version 0.1 )
 - supported at least 2 High-end headset ( oculus and vive )
 - grab system
@@ -28,7 +28,7 @@
 ## [Updates](https://github.com/bestspang/VRfennect/blob/master/VERSIONS.md)
 ![phase01](https://img.shields.io/badge/phase01-5%25-blue.svg)
 
-### version 0.02
+### Version 0.02
 ```
 - 4.18.3 supported
 - add basic VR blueprint for Oculus and Vive
