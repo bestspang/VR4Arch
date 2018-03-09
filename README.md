@@ -1,9 +1,9 @@
 # VRfennect
-[![NAME](https://img.shields.io/badge/VR4Arch-UE4-orange.svg)](https://github.com/bestspang/VR4Arch)
-[![GitHub release](https://img.shields.io/github/release/bestspang/VR4Arch.svg)](https://github.com/bestspang/VR4Arch/releases)
-![GitHub last commit](https://img.shields.io/github/last-commit/bestspang/VR4Arch.svg)
-[![GitHub license](https://img.shields.io/github/license/bestspang/VR4Arch.svg)](https://github.com/bestspang/VR4Arch/blob/master/LICENSE)
-![Github file size](https://img.shields.io/github/size/asdasdsad/bestspang/VR4Arch.svg)
+[![NAME](https://img.shields.io/badge/VRfennect-UE4-orange.svg)](https://github.com/bestspang/VRfennect)
+[![GitHub release](https://img.shields.io/github/release/bestspang/VRfennect.svg)](https://github.com/bestspang/VRfennect/releases)
+![GitHub last commit](https://img.shields.io/github/last-commit/bestspang/VRfennect.svg)
+[![GitHub license](https://img.shields.io/github/license/bestspang/VRfennect.svg)](https://github.com/bestspang/VRfennect/blob/master/LICENSE)
+![Github file size](https://img.shields.io/github/size/asdasdsad/bestspang/VRfennect.svg)
 
 ## VR template for Archviz
 
