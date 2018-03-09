@@ -29,7 +29,7 @@
 - start on multiplayer
 - and more very soon ...
 ## Updates
-![phase01](https://img.shields.io/badge/phase01-1%25-blue.svg)
+![phase01](https://img.shields.io/badge/phase01-5%25-blue.svg)
 ### version 0.01
 ```
 - initialize project
