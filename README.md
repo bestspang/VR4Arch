@@ -1,6 +1,9 @@
 # VR4Arch
-[![GitHub license](https://img.shields.io/github/license/bestspang/VR4Arch.svg)](https://github.com/bestspang/VR4Arch/)
-[![GitHub release](https://img.shields.io/github/release/bestspang/VR4Arch.svg)](https://github.com/bestspang/VR4Arch/releases/)
+[![NAME](https://img.shields.io/badge/VR4Arch-UE4-orange.svg)](https://github.com/bestspang/VR4Arch)
+[![GitHub release](https://img.shields.io/github/release/bestspang/VR4Arch.svg)](https://github.com/bestspang/VR4Arch/releases)
+![GitHub last commit](https://img.shields.io/github/last-commit/bestspang/VR4Arch.svg)
+[![GitHub license](https://img.shields.io/github/license/bestspang/VR4Arch.svg)](https://github.com/bestspang/VR4Arch/blob/master/LICENSE)
+![Github file size](https://img.shields.io/github/size/asdasdsad/bestspang/VR4Arch.svg)
 
 ## VR template for Archviz
 
@@ -26,13 +29,14 @@
 - start on multiplayer
 - and more very soon ...
 ## Updates
+![phase01](https://img.shields.io/badge/phase01-1%25-blue.svg)
 ### version 0.01
 ```
 - initialize project
 - and Documents, details and time stamp
 ```
 #### TO DO
-- startup very simple VR template
+- startup very simple VR template 
 - VR sample
 - grab system
 
@@ -42,4 +46,4 @@ Documentation is available at [fennect.com](https://fennect.com/).
 
 ## License
 
-**VR4Arch** is published under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+**VR4Arch** is published under [Apache License 2.0](https://github.com/bestspang/VR4Arch/blob/master/LICENSE).
