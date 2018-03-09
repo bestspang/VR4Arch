@@ -1,4 +1,4 @@
-# VR4Arch
+# VRfennect
 [![NAME](https://img.shields.io/badge/VR4Arch-UE4-orange.svg)](https://github.com/bestspang/VR4Arch)
 [![GitHub release](https://img.shields.io/github/release/bestspang/VR4Arch.svg)](https://github.com/bestspang/VR4Arch/releases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bestspang/VR4Arch.svg)
