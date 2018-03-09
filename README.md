@@ -35,6 +35,13 @@
 - initialize project
 - and Documents, details and time stamp
 ```
+### version 0.02
+```
+- 4.18.3 supported
+- add basic VR blueprint for Oculus and Vive
+- just for looking around
+
+```
 #### TO DO
 - startup very simple VR template 
 - VR sample
