@@ -46,4 +46,4 @@ Documentation is available at [fennect.com](https://fennect.com/).
 
 ## License
 
-**VR4Arch** is published under [Apache License 2.0](https://github.com/bestspang/VR4Arch/blob/master/LICENSE).
+**VRfennect** is published under [Apache License 2.0](https://github.com/bestspang/VR4Arch/blob/master/LICENSE).
