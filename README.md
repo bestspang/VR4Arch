@@ -1,7 +1,6 @@
 # VR4Arch
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/bestspang/VR4Arch/releases/)
+[![GitHub license](https://img.shields.io/github/license/bestspang/VR4Arch.svg)](https://github.com/bestspang/VR4Arch/)
+[![GitHub release](https://img.shields.io/github/release/bestspang/VR4Arch.svg)](https://github.com/bestspang/VR4Arch/releases/)
 
 ## VR template for Archviz
 
@@ -27,7 +26,7 @@
 - start on multiplayer
 - and more very soon ...
 ## Updates
-### version 0.001
+### version 0.01
 ```
 - initialize project
 - and Documents, details and time stamp
